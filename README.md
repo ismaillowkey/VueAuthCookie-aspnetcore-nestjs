@@ -51,3 +51,5 @@ axios.defaults.baseURL = 'http://localhost:5000/api'
 
 
 
+## For testing mail server
+Download and run Papercut-SMTP [https://github.com/ChangemakerStudios/Papercut-SMTP]
